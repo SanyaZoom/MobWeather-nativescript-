@@ -1,0 +1,20 @@
+<StackLayout>
+    <Label text="Update at: {{ weatherItem.lastUpdated }}." style="text-align: center;"></Label>
+    <DockLayout>
+        <StackLayout dock="left">
+            <Label text="{{ weatherItem.cityName }}, {{ weatherItem.country }}" style="margin-left: 5px; font-size: medium; font-weight: bold;"></Label>
+            <Label text="{{ weatherItem.temperature }}°C" style="margin-left: 5px; font-size: 24px; font-weight: bold;"></Label>
+            <Label text="{{ weatherItem.description }}" style="margin-left: 5px; font-size: medium; font-weight: bold;"></Label>
+            <Label text="feels: {{ weatherItem.feelsTemperature }}°C" style="margin-left: 5px;"></Label>
+        </StackLayout>
+        <Image dock="right" src="~/weatherIcon/{{ weatherItem.icon }}" style="width: 100px; margin-left: 50px;"></Image>
+    </DockLayout>
+    <StackLayout style="margin-left: 10px; margin-right: 10px; margin-top: 10px;">
+        <Label text="Right now" style="background-color: #32db64;; color: #ffffff; padding: 5px;"></Label>
+        <Label text="wind: {{ weatherItem.windSpeed }} m/s, {{ weatherItem.windDeg }}°" style="padding: 5px;"></Label>
+        <Label text="humidity: {{ weatherItem.humidity }}%" style="padding: 5px;"></Label>
+        <Label text="pressure: {{ weatherItem.pressure }} hpa" style="padding: 5px;"></Label>
+        <Label text="coord: [{{ weatherItem.lat }}, {{ weatherItem.lon }}]" style="padding: 5px;"></Label>
+        <Label text="time zone: {{ weatherItem.timeZone }}" style="padding: 5px;"></Label>
+    </StackLayout>
+</StackLayout>

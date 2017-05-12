@@ -1,0 +1,11 @@
+<ListView [items]="dateArr" row="1" style="margin-right: 5px; margin-left: 5px;">
+    <ng-template let-item="item">
+        <StackLayout style="margin-left: 10px; margin-right: 10px; margin-top: 10px;" columns="*, auto">
+            <DockLayout>
+                <Label dock="left" text="{{ weatherItemHourly.cityName }}, {{ weatherItemHourly.country }}" style="background-color: #32db64; color: #ffffff; width: 55%;"></Label>
+                <Label dock="right" [text]="item.date" style="background-color: #32db64; color: #ffffff; width: 45%;"></Label>
+            </DockLayout>
+            <element [item]="item.hour"></element>
+        </StackLayout>
+    </ng-template>
+</ListView>

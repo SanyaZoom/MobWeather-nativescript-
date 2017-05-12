@@ -1,0 +1,23 @@
+"use strict";
+var core_1 = require("@angular/core");
+// Service
+var weather_service_1 = require("../../service/weather.service");
+var WeatherListComponent = (function () {
+    function WeatherListComponent(_weatherService) {
+        this._weatherService = _weatherService;
+    }
+    WeatherListComponent.prototype.ngOnInit = function () {
+        this.weatherItems = this._weatherService.getWeatherItems();
+    };
+    return WeatherListComponent;
+}());
+WeatherListComponent = __decorate([
+    core_1.Component({
+        selector: 'weather-list',
+        moduleId: module.id,
+        templateUrl: './weather-list.html'
+    }),
+    __metadata("design:paramtypes", [weather_service_1.WeatherService])
+], WeatherListComponent);
+exports.WeatherListComponent = WeatherListComponent;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoid2VhdGVyLWxpc3QuY29tcG9uZW50LmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsid2VhdGVyLWxpc3QuY29tcG9uZW50LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7QUFBQSxzQ0FBa0Q7QUFDbEQsVUFBVTtBQUNWLGlFQUFrRTtBQVNsRSxJQUFhLG9CQUFvQjtJQUc3Qiw4QkFBb0IsZUFBK0I7UUFBL0Isb0JBQWUsR0FBZixlQUFlLENBQWdCO0lBQUcsQ0FBQztJQUV2RCx1Q0FBUSxHQUFSO1FBQ0ksSUFBSSxDQUFDLFlBQVksR0FBRyxJQUFJLENBQUMsZUFBZSxDQUFDLGVBQWUsRUFBRSxDQUFDO0lBQy9ELENBQUM7SUFDTCwyQkFBQztBQUFELENBQUMsQUFSRCxJQVFDO0FBUlksb0JBQW9CO0lBTGhDLGdCQUFTLENBQUM7UUFDUCxRQUFRLEVBQUUsY0FBYztRQUN4QixRQUFRLEVBQUUsTUFBTSxDQUFDLEVBQUU7UUFDbkIsV0FBVyxFQUFFLHFCQUFxQjtLQUNyQyxDQUFDO3FDQUl1QyxnQ0FBYztHQUgxQyxvQkFBb0IsQ0FRaEM7QUFSWSxvREFBb0IiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgeyBDb21wb25lbnQsIE9uSW5pdCB9IGZyb20gXCJAYW5ndWxhci9jb3JlXCI7XHJcbi8vIFNlcnZpY2VcclxuaW1wb3J0IHsgV2VhdGhlclNlcnZpY2UgfSAgICBmcm9tIFwiLi4vLi4vc2VydmljZS93ZWF0aGVyLnNlcnZpY2VcIjtcclxuLy8gSW50ZXJmYWNlXHJcbmltcG9ydCB7IFdlYXRoZXJJdGVtIH0gICAgICAgZnJvbSBcIi4uLy4uL2ludGVyZmFjZXMvd2VhdGhlci1pdGVtLmludGVyZmFjZVwiO1xyXG5cclxuQENvbXBvbmVudCh7XHJcbiAgICBzZWxlY3RvcjogJ3dlYXRoZXItbGlzdCcsXHJcbiAgICBtb2R1bGVJZDogbW9kdWxlLmlkLFxyXG4gICAgdGVtcGxhdGVVcmw6ICcuL3dlYXRoZXItbGlzdC5odG1sJ1xyXG59KVxyXG5leHBvcnQgY2xhc3MgV2VhdGhlckxpc3RDb21wb25lbnQgaW1wbGVtZW50cyBPbkluaXQge1xyXG4gICAgd2VhdGhlckl0ZW1zOiBXZWF0aGVySXRlbVtdO1xyXG5cclxuICAgIGNvbnN0cnVjdG9yKHByaXZhdGUgX3dlYXRoZXJTZXJ2aWNlOiBXZWF0aGVyU2VydmljZSkge31cclxuXHJcbiAgICBuZ09uSW5pdCgpOmFueSB7XHJcbiAgICAgICAgdGhpcy53ZWF0aGVySXRlbXMgPSB0aGlzLl93ZWF0aGVyU2VydmljZS5nZXRXZWF0aGVySXRlbXMoKTtcclxuICAgIH1cclxufVxyXG4iXX0=

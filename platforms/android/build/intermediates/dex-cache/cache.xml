@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-design-25.3.1_3a34fa89b5e49fed3ef79e71661fac6663d731d6.jar" />
+    </item>
+    <item
+        jar="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-core-ui-25.3.1_cbf38f5803b3164db787c0908b6b0d22f303959d.jar" />
+    </item>
+    <item
+        jar="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-core-utils-25.3.1_3db0c119e064aca51425a495e3ed980145612667.jar" />
+    </item>
+    <item
+        jar="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-fragment-25.3.1_8b32a1e3ad7530d49a2e75b18bd8cf5303f3bc4a.jar" />
+    </item>
+    <item
+        jar="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-compat-25.3.1_f54f803ffef0ab292db40325c84f052a50b0e5f8.jar" />
+    </item>
+    <item
+        jar="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-vector-drawable-25.3.1_9486fcdbc23c8aca9b999f841f4e6cfb27799e7b.jar" />
+    </item>
+    <item
+        jar="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="8a73b09319cc3945912970487ced4c7724acc97d">
+        <dex dex="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\intermediates-exploded-aar-widgets-release_5e34aa9bf208b47aeaa4e88670212d39e9ccf9f9.jar" />
+    </item>
+    <item
+        jar="C:\Users\adm\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\support-annotations-25.3.1_6c26177796a61fa6f0ae97fe7287f2ea10feca78.jar" />
+    </item>
+    <item
+        jar="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-appcompat-v7-25.3.1_9342f580c504addbd14192c5fd509c8745ff5856.jar" />
+    </item>
+    <item
+        jar="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-animated-vector-drawable-25.3.1_3276f5611771ae865c4325ed8249d13a666a4d61.jar" />
+    </item>
+    <item
+        jar="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-design-25.3.1_3a34fa89b5e49fed3ef79e71661fac6663d731d6.jar" />
+    </item>
+    <item
+        jar="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-recyclerview-v7-25.3.1_062bdfa11689cd5518abb4de9f8203b3a4b5c12a.jar" />
+    </item>
+    <item
+        jar="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\exploded-aar\MobWeatherApp\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="632bf39700c28ba66c117628dab343126ef89551">
+        <dex dex="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\MobWeatherApp-runtime-unspecified_bb4482d0f982e242e748c09c85d16ef7cb483ee1.jar" />
+    </item>
+    <item
+        jar="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-core-utils-25.3.1_3db0c119e064aca51425a495e3ed980145612667.jar" />
+    </item>
+    <item
+        jar="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-compat-25.3.1_f54f803ffef0ab292db40325c84f052a50b0e5f8.jar" />
+    </item>
+    <item
+        jar="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-transition-25.3.1_dc15dad33f7bb6ea80cadc567235c8f385018112.jar" />
+    </item>
+    <item
+        jar="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-vector-drawable-25.3.1_9486fcdbc23c8aca9b999f841f4e6cfb27799e7b.jar" />
+    </item>
+    <item
+        jar="C:\Users\adm\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\support-annotations-25.3.1_6c26177796a61fa6f0ae97fe7287f2ea10feca78.jar" />
+    </item>
+    <item
+        jar="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-animated-vector-drawable-25.3.1_3276f5611771ae865c4325ed8249d13a666a4d61.jar" />
+    </item>
+    <item
+        jar="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-v4-25.3.1_df8bfd1b83f5859c524b9b939bf234d3e0b0f4bd.jar" />
+    </item>
+    <item
+        jar="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-recyclerview-v7-25.3.1_062bdfa11689cd5518abb4de9f8203b3a4b5c12a.jar" />
+    </item>
+    <item
+        jar="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\exploded-aar\MobWeatherApp\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="632bf39700c28ba66c117628dab343126ef89551">
+        <dex dex="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\MobWeatherApp-runtime-unspecified_bb4482d0f982e242e748c09c85d16ef7cb483ee1.jar" />
+    </item>
+    <item
+        jar="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-transition-25.3.1_dc15dad33f7bb6ea80cadc567235c8f385018112.jar" />
+    </item>
+    <item
+        jar="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\exploded-aar\MobWeatherApp\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d82f3ca98719f09b65db6aeaf450ad3bafc46e81">
+        <dex dex="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\binding-generator_51b6215147bd67acaa72ddd6d570662d44d71e03.jar" />
+    </item>
+    <item
+        jar="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-media-compat-25.3.1_02aae02a419d9fc13387d5e139c5812132e291c3.jar" />
+    </item>
+    <item
+        jar="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-appcompat-v7-25.3.1_9342f580c504addbd14192c5fd509c8745ff5856.jar" />
+    </item>
+    <item
+        jar="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-core-ui-25.3.1_cbf38f5803b3164db787c0908b6b0d22f303959d.jar" />
+    </item>
+    <item
+        jar="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-v4-25.3.1_df8bfd1b83f5859c524b9b939bf234d3e0b0f4bd.jar" />
+    </item>
+    <item
+        jar="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\exploded-aar\MobWeatherApp\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="d82f3ca98719f09b65db6aeaf450ad3bafc46e81">
+        <dex dex="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\binding-generator_51b6215147bd67acaa72ddd6d570662d44d71e03.jar" />
+    </item>
+    <item
+        jar="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-fragment-25.3.1_8b32a1e3ad7530d49a2e75b18bd8cf5303f3bc4a.jar" />
+    </item>
+    <item
+        jar="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="8a73b09319cc3945912970487ced4c7724acc97d">
+        <dex dex="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\intermediates-exploded-aar-widgets-release_5e34aa9bf208b47aeaa4e88670212d39e9ccf9f9.jar" />
+    </item>
+    <item
+        jar="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\work\nativescript\MobWeatherApp\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-media-compat-25.3.1_02aae02a419d9fc13387d5e139c5812132e291c3.jar" />
+    </item>
+
+</items>

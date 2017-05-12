@@ -1,0 +1,1 @@
+D:\work\nativescript\MobWeatherApp\platforms\android\src\main\assets\app\pages\third-page\third-page.component.js

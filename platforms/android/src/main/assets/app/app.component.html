@@ -1,0 +1,17 @@
+<ActionBar class="action-bar" style="background-color: #32db64; color: #ffffff;">
+    <StackLayout class="action-bar-title">
+        <Label text="Weather" style="font-size: 24px;"></Label>
+    </StackLayout>
+</ActionBar>
+
+<TabView selectedColor="#32db64" sdkExampleTitle sdkToggleNavButton>
+    <StackLayout *tabItem="{title: 'Now'}">
+        <first-page></first-page>
+    </StackLayout>
+    <StackLayout *tabItem="{title: 'Hourly'}">
+        <second-page></second-page>
+    </StackLayout>
+    <StackLayout *tabItem="{title: 'GPS'}">
+        <third-page [long]="longitude" [lat]="latitude"></third-page>
+    </StackLayout>
+</TabView>

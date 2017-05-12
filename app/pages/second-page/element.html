@@ -1,0 +1,14 @@
+<DockLayout *ngFor="let hourlyDayItem of hourlyDayItems">
+    <StackLayout dock="left" style="width: 40%;">
+        <Label text="{{ hourlyDayItem.time }}"></Label>
+        <Image src="~/weatherIcon/{{ hourlyDayItem.condition.icon }}" style="width: 90px;"></Image>
+    </StackLayout>
+    <StackLayout dock="right" style="width: 60%;">
+        <Label text="{{ hourlyDayItem.temp_c }}°C"></Label>
+        <Label text="{{ hourlyDayItem.condition.text }}"></Label>
+        <Label text="feels like: {{ hourlyDayItem.feelslike_c }}°C,"></Label>
+        <Label text="humidity: {{ hourlyDayItem.humidity }}%"></Label>
+        <Label text="pressure: {{ hourlyDayItem.pressure_mb }}hpa"></Label>
+        <Label text="wind: {{ hourlyDayItem.wind_mph }}m/s, {{ hourlyDayItem.wind_degree }}°"></Label>
+    </StackLayout>
+</DockLayout>
