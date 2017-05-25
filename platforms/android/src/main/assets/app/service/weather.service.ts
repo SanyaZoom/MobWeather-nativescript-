@@ -7,6 +7,7 @@ import { WeatherItemForFewDays }                                  from "../inter
 import { WeatherItemGEO }                                         from '../interfaces/weather-item-geo.interface';
 import "rxjs/add/operator/do";
 import "rxjs/add/operator/map";
+import {CityFound} from "../interfaces/city-found.interface";
 
 @Injectable()
 export class WeatherService {
@@ -62,8 +63,9 @@ export class WeatherService {
             });
     }
 
-    searchCityByGEOCoords(lat: number, lon: number): Observable<any> {
-        return this._http.get('https://api.apixu.com/v1/search.json?key=968c7a3b6b0d4ca08fc95022172102&q='+lat+' '+lon)
+
+    searchCityByGEOCoords(lat: number, lon: number): Observable<CityFound[]> {
+        return this._http.get('https://api.apixu.com/v1/search.json?key=968c7a3b6b0d4ca08fc95022172102&q=' + lat + '%20' + lon)
             .map(response => response.json())
             .catch(error => {
                 console.error(error);

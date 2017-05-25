@@ -4,7 +4,7 @@
     </StackLayout>
 </ActionBar>
 
-<TabView selectedColor="#32db64" sdkExampleTitle sdkToggleNavButton>
+<TabView selectedColor="white" sdkExampleTitle sdkToggleNavButton tabBackgroundColor="#32db64" tabTextColor="white">
     <StackLayout *tabItem="{title: 'Now'}">
         <first-page></first-page>
     </StackLayout>
@@ -12,6 +12,6 @@
         <second-page></second-page>
     </StackLayout>
     <StackLayout *tabItem="{title: 'GPS'}">
-        <third-page [long]="longitude" [lat]="latitude"></third-page>
+        <third-page></third-page>
     </StackLayout>
 </TabView>
